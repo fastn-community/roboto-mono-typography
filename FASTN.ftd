@@ -3,12 +3,7 @@
 -- fastn.package: fastn-community.github.io/roboto-mono-typography
 
 -- fastn.dependency: fifthtry.github.io/package-doc
-
-
-;; replace inter-font package name with font package name you want to create
-;; typography document for:
-
--- fastn.dependency: fifthtry.github.io/inter-font
+-- fastn.dependency: fastn-community.github.io/roboto-mono-font
 
 
 

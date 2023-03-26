@@ -19,8 +19,8 @@ name: fastn-community.github.io/roboto-mono-typography
 
 This FTD font `roboto-mono-typography` can be used for your ftd web projects. 
 
-You can use this roboto-mono-typography inside the `FTD` project. Follow below instructions
-to use this font package.
+You can use this roboto-mono-typography inside the `FTD` project. Follow below
+instructions to use this font package.
 
 -- ds.h3: How to use roboto-mono-typography?
 
@@ -60,9 +60,9 @@ types: $roboto-mono-typography.types
 
 -- ds.markdown: 
 
-Once you add `types: roboto-mono-typography.types` inside your ftd file, roboto-mono-typography will
-be added as fastn default typography to your `ds.page` and to all components you
-add inside `ds.page`.
+Once you add `types: roboto-mono-typography.types` inside your ftd file,
+roboto-mono-typography will be added as fastn default typography to your
+`ds.page` and to all components you add inside `ds.page`.
 
 Done! isn't it simple? Try this and don't forget to jump on our [Discord](https://discord.gg/bucrdvptYd)
 
